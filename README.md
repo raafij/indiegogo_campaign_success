@@ -1,4 +1,12 @@
-# indiegogo_campaign_success
+# Indiegogo Campaign Success Rate
+
+As part of the Data Analytics: R class, teams were tasked with identifying a business need and creating an analysis to try to solve the business need.
+
+The data that was chosen by our team is based on the success rate on projects that are uploaded to Indiegogo, an online platform that serves as a crowd funding for projects, products and services.
+
+We will be finding the determining variables that lead to the highest success rate for Indiegogo campaigns from 2017-2019 (which is a 10-year overview)
+
+## Assignment Instructions:
 
 Framing the Problem:
 
